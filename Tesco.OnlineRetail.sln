@@ -1,0 +1,75 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business", "Business", "{43EB4A48-859C-43AB-AAC6-9B93C785D246}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{198AF0B5-9504-4EA0-94E4-F6AFF2D5C27B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PresentationLayer", "PresentationLayer", "{5F5BB29C-9FDB-4EA5-A506-7376DA2A0DD5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataAccessLayer", "DataAccessLayer", "{478ADDEA-16CD-49B5-9942-00A571BE4AA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tesco.OnlineRetail.Business", "Tesco.OnlineRetail.Business\Tesco.OnlineRetail.Business.csproj", "{0F20DB08-1444-44CA-99AF-5A2966931C18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tesco.OnlineRetail.Exceptions", "Tesco.OnlineRetail.Exceptions\Tesco.OnlineRetail.Exceptions.csproj", "{A3C4EF44-41D0-478C-8E94-E9098FA99B3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tesco.OnlineRetail.Models", "Tesco.OnlineRetail.Models\Tesco.OnlineRetail.Models.csproj", "{8493E3BC-5653-4AF6-AAF5-4C70D0DBCE9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tesco.OnlineRetail.Utils", "Tesco.OnlineRetail.Utils\Tesco.OnlineRetail.Utils.csproj", "{3850C8D3-B7C8-410F-A3D2-589E99BE14F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tesco.OnlineRetail.Data.EFRepository", "Tesco.OnlineRetail.Data.ADORepository\Tesco.OnlineRetail.Data.EFRepository.csproj", "{67572B6A-5805-469A-A61C-F527CE73F01F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tesco.OnlineRetail.Data.Repository", "Tesco.OnlineRetail.Data.Repository\Tesco.OnlineRetail.Data.Repository.csproj", "{B9F78CFF-5746-417D-BAA8-48BFC9A4FE35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tesco.OnlineRetail.UI.MVC", "Tesco.OnlineRetail.UI.MVC\Tesco.OnlineRetail.UI.MVC.csproj", "{7F729D75-A4A3-486F-8C32-0B9A1B203CE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F20DB08-1444-44CA-99AF-5A2966931C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F20DB08-1444-44CA-99AF-5A2966931C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F20DB08-1444-44CA-99AF-5A2966931C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F20DB08-1444-44CA-99AF-5A2966931C18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3C4EF44-41D0-478C-8E94-E9098FA99B3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C4EF44-41D0-478C-8E94-E9098FA99B3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C4EF44-41D0-478C-8E94-E9098FA99B3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C4EF44-41D0-478C-8E94-E9098FA99B3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8493E3BC-5653-4AF6-AAF5-4C70D0DBCE9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8493E3BC-5653-4AF6-AAF5-4C70D0DBCE9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8493E3BC-5653-4AF6-AAF5-4C70D0DBCE9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8493E3BC-5653-4AF6-AAF5-4C70D0DBCE9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3850C8D3-B7C8-410F-A3D2-589E99BE14F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3850C8D3-B7C8-410F-A3D2-589E99BE14F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3850C8D3-B7C8-410F-A3D2-589E99BE14F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3850C8D3-B7C8-410F-A3D2-589E99BE14F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67572B6A-5805-469A-A61C-F527CE73F01F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67572B6A-5805-469A-A61C-F527CE73F01F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67572B6A-5805-469A-A61C-F527CE73F01F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67572B6A-5805-469A-A61C-F527CE73F01F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9F78CFF-5746-417D-BAA8-48BFC9A4FE35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9F78CFF-5746-417D-BAA8-48BFC9A4FE35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9F78CFF-5746-417D-BAA8-48BFC9A4FE35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9F78CFF-5746-417D-BAA8-48BFC9A4FE35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F729D75-A4A3-486F-8C32-0B9A1B203CE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F729D75-A4A3-486F-8C32-0B9A1B203CE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F729D75-A4A3-486F-8C32-0B9A1B203CE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F729D75-A4A3-486F-8C32-0B9A1B203CE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0F20DB08-1444-44CA-99AF-5A2966931C18} = {43EB4A48-859C-43AB-AAC6-9B93C785D246}
+		{A3C4EF44-41D0-478C-8E94-E9098FA99B3F} = {198AF0B5-9504-4EA0-94E4-F6AFF2D5C27B}
+		{8493E3BC-5653-4AF6-AAF5-4C70D0DBCE9D} = {198AF0B5-9504-4EA0-94E4-F6AFF2D5C27B}
+		{3850C8D3-B7C8-410F-A3D2-589E99BE14F9} = {198AF0B5-9504-4EA0-94E4-F6AFF2D5C27B}
+		{67572B6A-5805-469A-A61C-F527CE73F01F} = {478ADDEA-16CD-49B5-9942-00A571BE4AA3}
+		{B9F78CFF-5746-417D-BAA8-48BFC9A4FE35} = {478ADDEA-16CD-49B5-9942-00A571BE4AA3}
+		{7F729D75-A4A3-486F-8C32-0B9A1B203CE2} = {5F5BB29C-9FDB-4EA5-A506-7376DA2A0DD5}
+	EndGlobalSection
+EndGlobal

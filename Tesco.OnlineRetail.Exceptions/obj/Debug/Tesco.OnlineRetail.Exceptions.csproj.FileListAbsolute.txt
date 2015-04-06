@@ -1,0 +1,17 @@
+C:\Users\janakiramravi\Documents\Tesco\Project\Tesco.OnlineRetail\Arbinger.ABCD.Exceptions\bin\Debug\Arbinger.ABCD.Exceptions.dll
+C:\Users\janakiramravi\Documents\Tesco\Project\Tesco.OnlineRetail\Arbinger.ABCD.Exceptions\bin\Debug\Arbinger.ABCD.Exceptions.pdb
+C:\Users\janakiramravi\Documents\Tesco\Project\Tesco.OnlineRetail\Arbinger.ABCD.Exceptions\obj\Debug\Arbinger.ABCD.Exceptions.dll
+C:\Users\janakiramravi\Documents\Tesco\Project\Tesco.OnlineRetail\Arbinger.ABCD.Exceptions\obj\Debug\Arbinger.ABCD.Exceptions.pdb
+C:\Users\janakiramravi\Documents\Tesco\Project\Tesco.OnlineRetail\Tesco.OnlineRetail.Exceptions\bin\Debug\Tesco.OnlineRetail.Exceptions.dll
+C:\Users\janakiramravi\Documents\Tesco\Project\Tesco.OnlineRetail\Tesco.OnlineRetail.Exceptions\bin\Debug\Tesco.OnlineRetail.Exceptions.pdb
+C:\Users\janakiramravi\Documents\Tesco\Project\Tesco.OnlineRetail\Tesco.OnlineRetail.Exceptions\obj\Debug\Tesco.OnlineRetail.Exceptions.dll
+C:\Users\janakiramravi\Documents\Tesco\Project\Tesco.OnlineRetail\Tesco.OnlineRetail.Exceptions\obj\Debug\Tesco.OnlineRetail.Exceptions.pdb
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.Exceptions\bin\Debug\Tesco.OnlineRetail.Exceptions.dll
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.Exceptions\bin\Debug\Tesco.OnlineRetail.Exceptions.pdb
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.Exceptions\obj\Debug\Tesco.OnlineRetail.Exceptions.dll
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.Exceptions\obj\Debug\Tesco.OnlineRetail.Exceptions.pdb
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Exceptions\bin\Debug\Tesco.OnlineRetail.Exceptions.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Exceptions\bin\Debug\Tesco.OnlineRetail.Exceptions.pdb
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Exceptions\obj\Debug\Tesco.OnlineRetail.Exceptions.csprojResolveAssemblyReference.cache
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Exceptions\obj\Debug\Tesco.OnlineRetail.Exceptions.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Exceptions\obj\Debug\Tesco.OnlineRetail.Exceptions.pdb

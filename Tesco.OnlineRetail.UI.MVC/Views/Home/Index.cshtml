@@ -1,0 +1,110 @@
+﻿@model IEnumerable<Tesco.OnlineRetail.Models.Category>
+
+@{
+    ViewBag.Title = "Tesco Online Retail";
+}
+
+
+@*<table width="100%" cellspacing="50">
+    <tr>
+        <td>*@
+<div class="container">
+    <div class="row">
+        <div class="col-md-3">
+            <p class="lead">
+                <br>
+
+                @Html.DisplayNameFor(model => model.CategoryName)
+
+            </p>
+            <div class="list-group">
+
+                @foreach (var item in Model)
+                {
+                    var it = item.CategoryId;
+
+                    <a href="#" onclick="getProducts(@item.CategoryId)" class="list-group-item ">@Html.DisplayFor(modelItem => item.CategoryName)</a>
+
+                }
+
+            </div>
+
+        </div>
+
+        @*</td>
+            <td>*@
+        <br>
+        <br>
+
+        <div class="col-md-9">
+
+ 
+            @using (Html.BeginForm("SearchProduct", "Home", FormMethod.Post))
+            {
+                @Html.TextBox("product", "")
+
+                <input type="submit" value="Search" placeholder="Search Product">
+}
+
+           <br>
+           <div>
+
+               <img src="~/iphone.jpg" />
+
+                            </div>
+        @*</td></tr>
+            <tr>
+                <td></td>
+                <td>*@
+       
+        <br> <br> <br>
+
+        <div id="products">
+
+        </div>
+
+        @*</td>
+            </tr>*@
+        @*</table>*@
+        <script>
+
+            function getProducts(catId) {
+
+                $.ajax({
+                    dataType: "json",
+                    url: "/Home/GetProductlistByCatId",
+                    data: { id: catId },
+                    success: function (products) {
+
+                        $("#products").empty();
+
+                        var content = "";
+
+                            //content = content + " <div class='col-md-9'>";
+
+                        for (var product in products) {
+                                //content = content + "<div class='row'>";
+                            content = content + "<div class='col-md-3'>";
+                            content = content + "<div class='thumbnail'>";
+                            //content = content + "<img src='~/Tesco_Logo17.png'/>" + "<br>";
+                            content = content + "<div class='caption'>" + products[product].ProductName + "<br>";
+                            content = content + products[product].ProductDesc;
+                            content = content + "<h4>" + "'&#8377'" + products[product].ProductPrice + "</h4>" + "</div>";
+
+                            content = content + "<br>" + "<a href='/Home/Details?id=" + products[product].ProductId + "'><button>View</button></a>" + "</div>";
+                            content = content + "</div>";
+                            content = content + "</div>";
+                                //content = content + "<br>";
+                        }
+                        content = content + "<br />";
+
+                        $("#products").append(content);
+                    }
+                });
+            }
+
+        </script>
+
+    </div>
+</div>
+</div>

@@ -1,0 +1,18 @@
+C:\Users\janakiramravi\Documents\Tesco\Project\Tesco.OnlineRetail\Arbinger.ABCD.Utils\bin\Debug\Arbinger.ABCD.Utils.dll
+C:\Users\janakiramravi\Documents\Tesco\Project\Tesco.OnlineRetail\Arbinger.ABCD.Utils\bin\Debug\Arbinger.ABCD.Utils.pdb
+C:\Users\janakiramravi\Documents\Tesco\Project\Tesco.OnlineRetail\Arbinger.ABCD.Utils\obj\Debug\Arbinger.ABCD.Utils.dll
+C:\Users\janakiramravi\Documents\Tesco\Project\Tesco.OnlineRetail\Arbinger.ABCD.Utils\obj\Debug\Arbinger.ABCD.Utils.pdb
+C:\Users\janakiramravi\Documents\Tesco\Project\Tesco.OnlineRetail\Tesco.OnlineRetail.Utils\bin\Debug\Tesco.OnlineRetail.Utils.dll
+C:\Users\janakiramravi\Documents\Tesco\Project\Tesco.OnlineRetail\Tesco.OnlineRetail.Utils\bin\Debug\Tesco.OnlineRetail.Utils.pdb
+C:\Users\janakiramravi\Documents\Tesco\Project\Tesco.OnlineRetail\Tesco.OnlineRetail.Utils\obj\Debug\Tesco.OnlineRetail.Utils.dll
+C:\Users\janakiramravi\Documents\Tesco\Project\Tesco.OnlineRetail\Tesco.OnlineRetail.Utils\obj\Debug\Tesco.OnlineRetail.Utils.pdb
+C:\Users\janakiramravi\Documents\Tesco\Project\Tesco.OnlineRetail\Tesco.OnlineRetail.Utils\obj\Debug\Tesco.OnlineRetail.Utils.csprojResolveAssemblyReference.cache
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.Utils\bin\Debug\Tesco.OnlineRetail.Utils.dll
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.Utils\bin\Debug\Tesco.OnlineRetail.Utils.pdb
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.Utils\obj\Debug\Tesco.OnlineRetail.Utils.csprojResolveAssemblyReference.cache
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.Utils\obj\Debug\Tesco.OnlineRetail.Utils.dll
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.Utils\obj\Debug\Tesco.OnlineRetail.Utils.pdb
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Utils\bin\Debug\Tesco.OnlineRetail.Utils.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Utils\bin\Debug\Tesco.OnlineRetail.Utils.pdb
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Utils\obj\Debug\Tesco.OnlineRetail.Utils.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Utils\obj\Debug\Tesco.OnlineRetail.Utils.pdb

@@ -1,0 +1,112 @@
+﻿@model Tesco.OnlineRetail.Models.Product
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div>
+    <h4>Cart</h4>
+    <hr />
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductPrice)
+            </th>
+            <th>
+               Quantity
+            </th>
+            <th>
+               TotalPrice
+            </th>
+        </tr>
+        <tr>
+            <td>
+                @Html.DisplayFor(model => model.ProductName)
+            </td>
+
+
+
+            <td>
+                @Html.DisplayFor(model => model.ProductPrice)
+            </td>
+           <td>
+                <select id="qty">
+                    <option selected="selected">0</option>
+                    <option>1</option>
+                    <option>2</option>
+                    <option>3</option>
+                    <option>4</option>
+                    <option>5</option>
+                    <option>6</option>
+                    <option>7</option>
+                    <option>8</option>
+                    <option>9</option>
+                    <option>10</option>
+                </select>
+
+            </td>
+            <td>
+                <div id="totalprice"></div>
+            </td>
+            <td>
+                
+            </td>
+            @*<td>
+                @Html.ActionLink("RemoveFromCart", "Delete", new { id = Model })
+            </td>*@
+        </tr>
+    </table>
+</div>
+<p>@ViewBag.Message</p>
+<p>
+    @*@Html.ActionLink("Edit", "Edit", new { id = Model.CartId }) |*@
+    @*@Html.ActionLink("Back to List", "Details","")*@
+</p>
+
+
+@*<div class="form-group">
+        @Html.LabelFor(model => model.CartItem.Quantity, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.CartItem.Quantity, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.CartItem.Quantity, "", new { @class = "text-danger" })
+        </div>
+    </div>*@
+
+@*<p class="button">
+    @Html.ActionLink("Place Order", "Create", "Shipping", new { id = Model.CartId }, "")
+</p>*@
+<div>
+    <a id="qtyid">Buy </a>
+</div>
+
+
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+
+
+    });
+
+    $("#qty").change(function () {
+
+        qty = $(this).val();
+        //alert(qty);
+
+        var id= @Model.ProductId;
+        var price = @Model.ProductPrice;
+        var total = 0;
+        total = price * qty;
+
+        //alert(total);
+        $("#totalprice").text(total);
+        $("#qtyid").click(function()
+        {
+            $(this).attr("href","/Cart/UpdateCart?id="+id+"&qty="+qty+"&price="+price);
+
+        });
+    });
+</script>

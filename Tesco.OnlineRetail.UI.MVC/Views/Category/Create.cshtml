@@ -1,0 +1,78 @@
+﻿@model Tesco.OnlineRetail.Models.Category
+
+@{
+    ViewBag.Title = "Tesco Online Retail";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-3">
+            <br>
+            <p class="lead">Welcome Admin</p>
+            <br>
+            <div class="list-group">
+
+                <dl>
+                    <dt>Manage Categories</dt>
+                    <br>
+                    <dd> <a href="~/Category/Index" class="list-group-item">View Categories</a></dd>
+                    <dd> <a href="~/Category/Create" class="list-group-item">Add Categories</a></dd>
+                </dl>
+                <dl>
+                    <br>
+                    <dt>Manage Product</dt>
+                    <br>
+                    <dd><a href="~/Product/Index" class="list-group-item">View Products</a></dd>
+                    <dd>
+                        <a href="~/Product/Create" class="list-group-item">Add Product</a>
+                    </dd>
+
+
+                </dl>
+
+            </div>
+        </div>
+
+
+
+        <div class="col-md-9">
+            <h2>Add Category</h2>
+
+
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+
+                <div class="form-horizontal">
+
+                    <hr />
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    <div class="form-group">
+                        <div class="col-md-2"> Category Name </div>
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.CategoryName, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.CategoryName, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-10">
+                            <input type="submit" value="Create" class="btn btn-default" />
+                        </div>
+                    </div>
+                </div>
+            }
+
+            <div style="color:red"> @ViewBag.Message </div>
+
+            <br />
+            <br />
+
+            
+
+            @section Scripts {
+                @Scripts.Render("~/bundles/jqueryval")
+            }
+</div>
+</div>
+</div>

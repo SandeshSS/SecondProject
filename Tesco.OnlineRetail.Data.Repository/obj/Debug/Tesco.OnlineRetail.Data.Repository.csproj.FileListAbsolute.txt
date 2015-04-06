@@ -1,0 +1,55 @@
+C:\Users\janakiramravi\Documents\Tesco\Project\Tesco.OnlineRetail\Arbinger.ABCD.Data.Repository\bin\Debug\Arbinger.ABCD.Data.Repository.dll
+C:\Users\janakiramravi\Documents\Tesco\Project\Tesco.OnlineRetail\Arbinger.ABCD.Data.Repository\bin\Debug\Arbinger.ABCD.Data.Repository.pdb
+C:\Users\janakiramravi\Documents\Tesco\Project\Tesco.OnlineRetail\Arbinger.ABCD.Data.Repository\bin\Debug\Arbinger.ABCD.Models.dll
+C:\Users\janakiramravi\Documents\Tesco\Project\Tesco.OnlineRetail\Arbinger.ABCD.Data.Repository\bin\Debug\Arbinger.ABCD.Models.pdb
+C:\Users\janakiramravi\Documents\Tesco\Project\Tesco.OnlineRetail\Arbinger.ABCD.Data.Repository\obj\Debug\Tesco.OnlineRetail.Data.Repository.csprojResolveAssemblyReference.cache
+C:\Users\janakiramravi\Documents\Tesco\Project\Tesco.OnlineRetail\Arbinger.ABCD.Data.Repository\obj\Debug\Arbinger.ABCD.Data.Repository.dll
+C:\Users\janakiramravi\Documents\Tesco\Project\Tesco.OnlineRetail\Arbinger.ABCD.Data.Repository\obj\Debug\Arbinger.ABCD.Data.Repository.pdb
+C:\Users\janakiramravi\Documents\Tesco\Project\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\bin\Debug\Tesco.OnlineRetail.Data.Repository.dll
+C:\Users\janakiramravi\Documents\Tesco\Project\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\bin\Debug\Tesco.OnlineRetail.Data.Repository.pdb
+C:\Users\janakiramravi\Documents\Tesco\Project\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\bin\Debug\Tesco.OnlineRetail.Models.dll
+C:\Users\janakiramravi\Documents\Tesco\Project\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\bin\Debug\Tesco.OnlineRetail.Models.pdb
+C:\Users\janakiramravi\Documents\Tesco\Project\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\obj\Debug\Tesco.OnlineRetail.Data.Repository.csprojResolveAssemblyReference.cache
+C:\Users\janakiramravi\Documents\Tesco\Project\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\obj\Debug\Tesco.OnlineRetail.Data.Repository.dll
+C:\Users\janakiramravi\Documents\Tesco\Project\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\obj\Debug\Tesco.OnlineRetail.Data.Repository.pdb
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\bin\Debug\Tesco.OnlineRetail.Data.Repository.dll
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\bin\Debug\Tesco.OnlineRetail.Data.Repository.pdb
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\obj\Debug\Tesco.OnlineRetail.Data.Repository.csprojResolveAssemblyReference.cache
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\obj\Debug\Tesco.OnlineRetail.Data.Repository.dll
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\obj\Debug\Tesco.OnlineRetail.Data.Repository.pdb
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\bin\Debug\Tesco.OnlineRetail.Data.Repository.dll
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\bin\Debug\Tesco.OnlineRetail.Data.Repository.pdb
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\bin\Debug\Tesco.OnlineRetail.Models.dll
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\bin\Debug\Tesco.OnlineRetail.Models.pdb
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\obj\Debug\Tesco.OnlineRetail.Data.Repository.csprojResolveAssemblyReference.cache
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\obj\Debug\Tesco.OnlineRetail.Data.Repository.dll
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\obj\Debug\Tesco.OnlineRetail.Data.Repository.pdb
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\bin\Debug\Tesco.OnlineRetail.Data.Repository.dll.config
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\bin\Debug\EntityFramework.dll
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\bin\Debug\EntityFramework.xml
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\bin\Debug\Tesco.OnlineRetail.Data.Repository.dll.config
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\bin\Debug\Tesco.OnlineRetail.Data.Repository.dll
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\bin\Debug\Tesco.OnlineRetail.Data.Repository.pdb
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\bin\Debug\EntityFramework.dll
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\bin\Debug\Tesco.OnlineRetail.Models.dll
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\bin\Debug\Tesco.OnlineRetail.Models.pdb
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\bin\Debug\EntityFramework.xml
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\obj\Debug\Tesco.OnlineRetail.Data.Repository.csprojResolveAssemblyReference.cache
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\obj\Debug\Tesco.OnlineRetail.Data.Repository.dll
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\obj\Debug\Tesco.OnlineRetail.Data.Repository.pdb
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\bin\Debug\Tesco.OnlineRetail.Data.Repository.dll.config
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\bin\Debug\Tesco.OnlineRetail.Data.Repository.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\bin\Debug\Tesco.OnlineRetail.Data.Repository.pdb
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\bin\Debug\EntityFramework.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\bin\Debug\EntityFramework.SqlServer.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\bin\Debug\Tesco.OnlineRetail.Models.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\bin\Debug\Tesco.OnlineRetail.Models.pdb
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\bin\Debug\EntityFramework.xml
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\bin\Debug\EntityFramework.SqlServer.xml
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\obj\Debug\Tesco.OnlineRetail.Data.Repository.csprojResolveAssemblyReference.cache
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\obj\Debug\Tesco.OnlineRetail.Data.Repository.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\obj\Debug\Tesco.OnlineRetail.Data.Repository.pdb

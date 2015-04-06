@@ -1,0 +1,315 @@
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.UI.MVC.dll.config
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.UI.MVC.dll
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.UI.MVC.pdb
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Antlr3.Runtime.dll
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\EntityFramework.dll
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.dll
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.dll
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Newtonsoft.Json.dll
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Owin.dll
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Helpers.dll
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Mvc.dll
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Optimization.dll
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Razor.dll
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.WebPages.dll
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\WebGrease.dll
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Helpers.xml
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Mvc.xml
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Optimization.xml
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Razor.xml
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.WebPages.xml
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Newtonsoft.Json.xml
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\EntityFramework.xml
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.xml
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.xml
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\obj\Debug\Tesco.OnlineRetail.UI.MVC.csprojResolveAssemblyReference.cache
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\obj\Debug\Tesco.OnlineRetail.UI.MVC.dll
+C:\Users\janakiramravi\Documents\Visual Studio 2013\Projects\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\obj\Debug\Tesco.OnlineRetail.UI.MVC.pdb
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\obj\Debug\Tesco.OnlineRetail.UI.MVC.csprojResolveAssemblyReference.cache
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\obj\Debug\Tesco.OnlineRetail.UI.MVC.dll
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\obj\Debug\Tesco.OnlineRetail.UI.MVC.pdb
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.UI.MVC.dll.config
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.UI.MVC.dll
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.UI.MVC.pdb
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Antlr3.Runtime.dll
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\EntityFramework.dll
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\EntityFramework.SqlServer.dll
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.dll
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.dll
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Newtonsoft.Json.dll
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Owin.dll
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Helpers.dll
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Mvc.dll
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Optimization.dll
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Razor.dll
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.WebPages.dll
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.Business.dll
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.Data.ADORepository.dll
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.Data.Repository.dll
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.Models.dll
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\WebGrease.dll
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Ninject.dll
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.Business.pdb
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.Data.ADORepository.pdb
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.Data.Repository.pdb
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.Models.pdb
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Helpers.xml
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Mvc.xml
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Optimization.xml
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Razor.xml
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.WebPages.xml
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Antlr3.Runtime.pdb
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Newtonsoft.Json.xml
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\EntityFramework.xml
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\EntityFramework.SqlServer.xml
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.xml
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.xml
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.UI.MVC.dll.config
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.UI.MVC.dll
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.UI.MVC.pdb
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Antlr3.Runtime.dll
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\EntityFramework.dll
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\EntityFramework.SqlServer.dll
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.AspNet.Identity.Core.dll
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.dll
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Cookies.dll
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.dll
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Facebook.dll
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Google.dll
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.OAuth.dll
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Twitter.dll
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Web.Infrastructure.dll
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Newtonsoft.Json.dll
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Owin.dll
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Helpers.dll
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Mvc.dll
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Optimization.dll
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Razor.dll
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.WebPages.Deployment.dll
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.WebPages.dll
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.WebPages.Razor.dll
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.Business.dll
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.Data.ADORepository.dll
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.Data.Repository.dll
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.Models.dll
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\WebGrease.dll
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Ninject.dll
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.Business.pdb
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.Data.ADORepository.pdb
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.Data.Repository.pdb
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.Models.pdb
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\EntityFramework.xml
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\EntityFramework.SqlServer.xml
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Helpers.xml
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Mvc.xml
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Optimization.xml
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Razor.xml
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.WebPages.xml
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.WebPages.Deployment.xml
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.WebPages.Razor.xml
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Antlr3.Runtime.pdb
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Newtonsoft.Json.xml
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.AspNet.Identity.Core.xml
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.xml
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.xml
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Facebook.xml
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Cookies.xml
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.OAuth.xml
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Google.xml
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Twitter.xml
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\obj\Debug\Tesco.OnlineRetail.UI.MVC.csprojResolveAssemblyReference.cache
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\obj\Debug\Tesco.OnlineRetail.UI.MVC.dll
+\\MIND2\Share\New Project\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\obj\Debug\Tesco.OnlineRetail.UI.MVC.pdb
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.UI.MVC.dll.config
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.UI.MVC.dll
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.UI.MVC.pdb
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Antlr3.Runtime.dll
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\EntityFramework.dll
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\EntityFramework.SqlServer.dll
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.AspNet.Identity.Core.dll
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.dll
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Cookies.dll
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.dll
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Facebook.dll
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Google.dll
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.OAuth.dll
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Twitter.dll
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Web.Infrastructure.dll
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Newtonsoft.Json.dll
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Owin.dll
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Helpers.dll
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Mvc.dll
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Optimization.dll
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Razor.dll
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.WebPages.Deployment.dll
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.WebPages.dll
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.WebPages.Razor.dll
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.Business.dll
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.Data.ADORepository.dll
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.Data.Repository.dll
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.Models.dll
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\WebGrease.dll
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Ninject.dll
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.Business.pdb
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.Data.ADORepository.pdb
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.Data.Repository.pdb
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.Models.pdb
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\EntityFramework.xml
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\EntityFramework.SqlServer.xml
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Helpers.xml
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Mvc.xml
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Optimization.xml
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Razor.xml
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.WebPages.xml
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.WebPages.Deployment.xml
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.WebPages.Razor.xml
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Antlr3.Runtime.pdb
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Newtonsoft.Json.xml
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.AspNet.Identity.Core.xml
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.xml
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.xml
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Facebook.xml
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Cookies.xml
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.OAuth.xml
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Google.xml
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Twitter.xml
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\obj\Debug\Tesco.OnlineRetail.UI.MVC.csprojResolveAssemblyReference.cache
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\obj\Debug\Tesco.OnlineRetail.UI.MVC.dll
+E:\sandesh\sandesh\Project_online_shopping\Tesco.OnlineRetail\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\obj\Debug\Tesco.OnlineRetail.UI.MVC.pdb
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.UI.MVC.dll.config
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.UI.MVC.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.UI.MVC.pdb
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Antlr3.Runtime.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\EntityFramework.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\EntityFramework.SqlServer.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Google.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Web.Infrastructure.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Newtonsoft.Json.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Owin.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\PagedList.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\PagedList.Mvc.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Helpers.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Mvc.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Optimization.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Razor.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.WebPages.Deployment.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.WebPages.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.WebPages.Razor.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.Business.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.Data.ADORepository.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.Data.Repository.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.Models.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\WebGrease.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Ninject.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.Business.pdb
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.Data.ADORepository.pdb
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.Data.Repository.pdb
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.Models.pdb
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\EntityFramework.xml
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\EntityFramework.SqlServer.xml
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\PagedList.xml
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\PagedList.Mvc.xml
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Helpers.xml
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Mvc.xml
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Optimization.xml
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Razor.xml
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.WebPages.xml
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.WebPages.Deployment.xml
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\System.Web.WebPages.Razor.xml
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Antlr3.Runtime.pdb
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Newtonsoft.Json.xml
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.xml
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.xml
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Google.xml
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\obj\Debug\Tesco.OnlineRetail.UI.MVC.csprojResolveAssemblyReference.cache
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\obj\Debug\Tesco.OnlineRetail.UI.MVC.dll
+F:\Tesco.OnlineRetail\Tesco.OnlineRetail.UI.MVC\obj\Debug\Tesco.OnlineRetail.UI.MVC.pdb

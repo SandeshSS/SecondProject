@@ -1,0 +1,170 @@
+﻿
+@{
+    ViewBag.Title = "ClubCard";
+}
+
+<h2>ClubCard</h2>
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Shop Item - Start Bootstrap Template</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/shop-item.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    @*<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+
+                    <li>
+                        <a href="~/Home/Index">Back to Tesco Home Page </a>
+                    </li>
+                    <li>
+                        <a href="~/Home/Contact">Contact</a>
+                    </li>
+                    <li>
+                        <a href="#">LogOff</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>*@
+
+    <!-- Page Content -->
+    <div class="container">
+
+        <div class="row">
+
+            <div class="col-md-3">
+
+                <div class="list-group">
+                    <a href="~/Home/Index" class="list-group-item active">Home</a>
+                    <a href="~/Home/AboutClubCard" class="list-group-item">About Clubcard</a>
+                    <a href="~/ClubCardAccountOrderDetail/Index" class="list-group-item">Your ClubCard Account</a>
+
+                    <a href="~/GiftProductCategory/GiftCategory" class="list-group-item">Gifts</a>
+                   
+                </div>
+
+            </div>
+
+            <div class="col-md-9">
+
+                <div class="col-md-9">
+                    <div class="row carousel-holder">
+                        <div class="col-md-12">
+                            <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+                                <ol class="carousel-indicators">
+                                    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                                    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                                    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+                                </ol>
+                                <div class="carousel-inner">
+                                    <div class="item active">
+                                        <img class="slide-image" src="~/clubcard.jpg" alt="" style="width:1004px;height:228px">
+                                    </div>
+                                    <div class="item">
+                                        <img class="slide-image" src="~/Card.jpg" alt="" style="width:1004px;height:228px">
+                                    </div>
+                                    <div class="item">
+                                        <img class="slide-image" src="~/images.jpg" alt="" style="width:1004px;height:228px">
+                                    </div>
+                                    <div class="item">
+                                        <img class="slide-image" src="~/RewardPage.jpg" alt="" style="width:1004px;height:228px">
+                                    </div>
+
+                                    <div class="item">
+                                        <img class="slide-image" src="~/fuel.jpg" alt="" style="width:1004px;height:228px">
+                                    </div>
+                                    <div class="item">
+                                        <img class="slide-image" src="~/offer.jpg" alt="" style="width:1004px;height:228px">
+                                    </div>
+
+
+                                </div>
+                                <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+                                    <span class="glyphicon glyphicon-chevron-left"></span>
+                                </a>
+                                <a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
+                                    <span class="glyphicon glyphicon-chevron-right"></span>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="caption-full">
+
+                            <h4>
+                                <a href="~/ClubCardReg/Create">Apply for ClubCard</a>
+                            </h4>
+                            <p>Collect Points each time when you shop,Just swap your card,and get offers on every products</p>
+                            <p>you can get special offer,not only on Online Retails store,but also you will also get offer in different stores,petrol pumps.Get upto 40% discount on each shoping.</p>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+    <!-- /.container -->
+
+
+
+    <div class="container">
+
+        <hr>
+
+        <!-- Footer -->
+
+
+    </div>
+    <!-- /.container -->
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
+

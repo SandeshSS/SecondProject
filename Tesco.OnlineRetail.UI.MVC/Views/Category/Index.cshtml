@@ -1,0 +1,86 @@
+﻿@model PagedList.IPagedList<Tesco.OnlineRetail.Models.Category>
+@using PagedList.Mvc;
+
+@{
+    ViewBag.Title = "Tesco Online Restore";
+}
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-3">
+            <br>
+            <p class="lead">Welcome Admin</p>
+            <br>
+            <div class="list-group">
+
+                <dl>
+                    <dt>Manage Categories</dt>
+                    <br>
+                    <dd> <a href="~/Category/Index" class="list-group-item">View Categories</a></dd>
+                    <dd> <a href="~/Category/Create" class="list-group-item">Add Categories</a></dd>
+                </dl>
+                <dl>
+                    <br>
+                    <dt>Manage Product</dt>
+                    <br>
+                    <dd><a href="~/Product/Index" class="list-group-item">View Products</a></dd>
+                    <dd>
+                    <a href="~/Product/Create" class="list-group-item">Add Product</a></dd>
+                </dl>
+                <dl>
+                    <br>
+                    <dt>Manage Inventory</dt>
+
+                    <dd><a href="~/Inventory/Index" class="list-group-item">View Inventory</a></dd>
+                    <dd> <a href="~/Inventory/Create" class="list-group-item">Add product Quantity</a></dd>
+                </dl>
+            </div>
+        </div>
+
+
+
+        <div class="col-md-9">
+
+
+            <hr />
+
+
+            <h2>List of Categories</h2>
+
+            
+
+            <table class="table" border="3">
+                <tr>
+                    <th>
+                        Category Name
+                    </th>
+                    <th> Active </th>
+                    <th></th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                          @Html.DisplayFor(modelItem => item.CategoryName)
+                        </td>
+                        <td>
+                           @Html.DisplayFor(modelItem => item.IsActive)
+                        </td>
+                        <td>
+                            @Html.ActionLink("Cancel", "Delete", new { id = item.CategoryId })
+                        </td>
+                    </tr>
+                }
+
+
+
+            </table>
+
+            Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+            @Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+        </div>
+    </div>
+</div>

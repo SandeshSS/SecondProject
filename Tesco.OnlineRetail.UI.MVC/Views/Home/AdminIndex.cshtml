@@ -1,0 +1,64 @@
+﻿@model IEnumerable<Tesco.OnlineRetail.Models.Category>
+
+@{
+    ViewBag.Title = "AdminIndex";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-3">
+            <br>
+            <p class="lead">Welcome Admin</p>
+            <br>
+            <div class="list-group">
+
+                <dl>
+                    <dt>Manage Categories</dt><br>
+                    <dd> <a href="~/Category/Index" class="list-group-item">View Categories</a></dd>
+                    <dd> <a href="~/Category/Create" class="list-group-item">Add Categories</a></dd>
+                    
+                </dl>
+                <dl>
+                    <br>
+                    <dt>Manage Product</dt><br>
+                    <dd><a href="~/Product/Index" class="list-group-item">View Products</a></dd>
+                    <dd> <a href="~/Product/Create" class="list-group-item">Add Product</a></dd>
+                </dl>
+
+                <dl>
+                    <br>
+                    <dt>Manage Inventory</dt>
+                    
+                    <dd><a href="~/Inventory/Index" class="list-group-item">View Inventory</a></dd>
+                    <dd> <a href="~/Inventory/Create" class="list-group-item">Add product Quantity</a></dd>
+                </dl>
+                <dl>
+                    <br>
+                    <dt>Manage Gift Products</dt>
+                    
+                    <dd><a href="~/GiftProduct/Index" class="list-group-item">View Products</a></dd>
+                    <dd> <a href="~/GiftProduct/Create" class="list-group-item">Add Product</a></dd>
+           
+                </dl>
+                <dl>
+                    <br>
+                    <dt>Manage Gift Categories</dt>                   
+                    <dd><a href="~/GiftProductCategory/Index" class="list-group-item">View Category</a></dd>
+                    <dd> <a href="~/GiftProductCategory/Create" class="list-group-item">Add Category</a></dd>
+                </dl>
+                <dl>
+                    <br>
+                    <dt>Manage Points</dt>
+                    <dd><a href="~/PointAssign/PointsList" class="list-group-item">Assign Points</a></dd>
+                    
+                </dl>
+
+            </div>
+        </div>
+  
+      
+
+
+    </div>
+        </div>
+    

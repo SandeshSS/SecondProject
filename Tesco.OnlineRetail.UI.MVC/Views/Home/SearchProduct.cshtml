@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Tesco.OnlineRetail.Models.Product>
+
+@{
+    ViewBag.Title = "SearchProduct";
+}
+
+                     
+<table class="table">
+    <tr>
+        
+        <th>
+            @Html.DisplayNameFor(model => model.ProductName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ProductPrice)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ProductDesc)
+        </th>
+        
+        <th></th>
+        
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        
+        <td>
+            @Html.DisplayFor(modelItem => item.ProductName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ProductPrice)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ProductDesc)
+        </td>
+        <td>
+        @Html.ActionLink("Details", "Details", new { id = item.ProductId })
+        </td>
+    </tr>
+    
+}
+   
+</table>

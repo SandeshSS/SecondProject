@@ -15,3 +15,8 @@ F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Exceptions\bin\Debug\Tesco.OnlineRetail
 F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Exceptions\obj\Debug\Tesco.OnlineRetail.Exceptions.csprojResolveAssemblyReference.cache
 F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Exceptions\obj\Debug\Tesco.OnlineRetail.Exceptions.dll
 F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Exceptions\obj\Debug\Tesco.OnlineRetail.Exceptions.pdb
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Exceptions\bin\Debug\Tesco.OnlineRetail.Exceptions.dll
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Exceptions\bin\Debug\Tesco.OnlineRetail.Exceptions.pdb
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Exceptions\obj\Debug\Tesco.OnlineRetail.Exceptions.csprojResolveAssemblyReference.cache
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Exceptions\obj\Debug\Tesco.OnlineRetail.Exceptions.dll
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Exceptions\obj\Debug\Tesco.OnlineRetail.Exceptions.pdb

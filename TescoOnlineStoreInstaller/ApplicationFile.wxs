@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+  <Fragment Id="AppFiles">
+    <DirectoryRef Id="TescoUIMVC">
+      <Directory Id="bin" Name="bin">
+        <Component Id="bin" Guid="{EEE5C433-928D-47F4-948F-8CCE75D6B9AB}" DiskId="1" KeyPath="yes">
+          <File Id="binFile0" Name="Tesco.OnlineRetail.Business.dll" Source="..\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.Business.dll"/>
+          <File Id="binFile1" Name="Tesco.OnlineRetail.Data.ADORepository.dll" Source="..\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.Data.ADORepository.dll"/>
+          <File Id="binFile2" Name="Tesco.OnlineRetail.Data.Repository.dll" Source="..\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.Data.Repository.dll"/>
+          <File Id="binFile3" Name="Tesco.OnlineRetail.Models.dll" Source="..\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.Models.dll"/>
+          <File Id="binFile4" Name="Tesco.OnlineRetail.UI.MVC.dll" Source="..\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.UI.MVC.dll"/>
+          <File Id="binFile5" Name="Antlr3.Runtime.dll" Source="..\Tesco.OnlineRetail.UI.MVC\bin\Antlr3.Runtime.dll"/>
+          <File Id="binFile6" Name="EntityFramework.dll" Source="..\Tesco.OnlineRetail.UI.MVC\bin\EntityFramework.dll"/>
+          <File Id="binFile7" Name="EntityFramework.xml" Source="..\Tesco.OnlineRetail.UI.MVC\bin\EntityFramework.xml"/>
+          <File Id="binFile8" Name="EntityFramework.SqlServer.dll" Source="..\Tesco.OnlineRetail.UI.MVC\bin\EntityFramework.SqlServer.dll"/>
+          <File Id="binFile9" Name="EntityFramework.SqlServer.xml" Source="..\Tesco.OnlineRetail.UI.MVC\bin\EntityFramework.SqlServer.xml"/>
+          <File Id="binFile10" Name="Microsoft.AspNet.Identity.Core.dll" Source="..\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.AspNet.Identity.Core.dll"/>
+          <File Id="binFile11" Name="Microsoft.AspNet.Identity.Core.xml" Source="..\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.AspNet.Identity.Core.xml"/>
+          <File Id="binFile12" Name="Microsoft.AspNet.Identity.EntityFramework.dll" Source="..\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll"/>
+          <File Id="binFile13" Name="Microsoft.AspNet.Identity.EntityFramework.xml" Source="..\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml"/>
+          <File Id="binFile14" Name="Microsoft.AspNet.Identity.Owin.dll" Source="..\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.AspNet.Identity.Owin.dll"/>
+          <File Id="binFile15" Name="Microsoft.AspNet.Identity.Owin.xml" Source="..\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.AspNet.Identity.Owin.xml"/>
+          <File Id="binFile16" Name="Microsoft.Owin.dll" Source="..\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.dll"/>
+          <File Id="binFile17" Name="Microsoft.Owin.Host.SystemWeb.dll" Source="..\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Host.SystemWeb.dll"/>
+          <File Id="binFile18" Name="Microsoft.Owin.Host.SystemWeb.xml" Source="..\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml"/>
+          <File Id="binFile19" Name="Microsoft.Owin.Security.Cookies.dll" Source="..\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Cookies.dll"/>
+          <File Id="binFile20" Name="Microsoft.Owin.Security.Cookies.xml" Source="..\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.Cookies.xml"/>
+          <File Id="binFile21" Name="Microsoft.Owin.Security.dll" Source="..\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.dll"/>
+          <File Id="binFile22" Name="Microsoft.Owin.Security.xml" Source="..\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.Security.xml"/>
+          <File Id="binFile23" Name="Microsoft.Owin.xml" Source="..\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Owin.xml"/>
+          <File Id="binFile24" Name="Microsoft.Web.Infrastructure.dll" Source="..\Tesco.OnlineRetail.UI.MVC\bin\Microsoft.Web.Infrastructure.dll"/>
+          <File Id="binFile25" Name="Newtonsoft.Json.dll" Source="..\Tesco.OnlineRetail.UI.MVC\bin\Newtonsoft.Json.dll"/>
+          <File Id="binFile26" Name="Newtonsoft.Json.xml" Source="..\Tesco.OnlineRetail.UI.MVC\bin\Newtonsoft.Json.xml"/>
+          <File Id="binFile27" Name="Ninject.dll" Source="..\Tesco.OnlineRetail.UI.MVC\bin\Ninject.dll"/>
+          <File Id="binFile28" Name="Owin.dll" Source="..\Tesco.OnlineRetail.UI.MVC\bin\Owin.dll"/>
+          <File Id="binFile29" Name="PagedList.dll" Source="..\Tesco.OnlineRetail.UI.MVC\bin\PagedList.dll"/>
+          <File Id="binFile30" Name="PagedList.xml" Source="..\Tesco.OnlineRetail.UI.MVC\bin\PagedList.xml"/>
+          <File Id="binFile31" Name="PagedList.Mvc.dll" Source="..\Tesco.OnlineRetail.UI.MVC\bin\PagedList.Mvc.dll"/>
+          <File Id="binFile32" Name="PagedList.Mvc.xml" Source="..\Tesco.OnlineRetail.UI.MVC\bin\PagedList.Mvc.xml"/>
+          <File Id="binFile33" Name="System.Web.Helpers.dll" Source="..\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Helpers.dll"/>
+          <File Id="binFile34" Name="System.Web.Helpers.xml" Source="..\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Helpers.xml"/>
+          <File Id="binFile35" Name="System.Web.Mvc.dll" Source="..\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Mvc.dll"/>
+          <File Id="binFile36" Name="System.Web.Mvc.xml" Source="..\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Mvc.xml"/>
+          <File Id="binFile37" Name="System.Web.Optimization.dll" Source="..\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Optimization.dll"/>
+          <File Id="binFile38" Name="System.Web.Optimization.xml" Source="..\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Optimization.xml"/>
+          <File Id="binFile39" Name="System.Web.Razor.dll" Source="..\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Razor.dll"/>
+          <File Id="binFile40" Name="System.Web.Razor.xml" Source="..\Tesco.OnlineRetail.UI.MVC\bin\System.Web.Razor.xml"/>
+          <File Id="binFile41" Name="System.Web.WebPages.Deployment.dll" Source="..\Tesco.OnlineRetail.UI.MVC\bin\System.Web.WebPages.Deployment.dll"/>
+          <File Id="binFile42" Name="System.Web.WebPages.Deployment.xml" Source="..\Tesco.OnlineRetail.UI.MVC\bin\System.Web.WebPages.Deployment.xml"/>
+          <File Id="binFile43" Name="System.Web.WebPages.dll" Source="..\Tesco.OnlineRetail.UI.MVC\bin\System.Web.WebPages.dll"/>
+          <File Id="binFile44" Name="System.Web.WebPages.xml" Source="..\Tesco.OnlineRetail.UI.MVC\bin\System.Web.WebPages.xml"/>
+          <File Id="binFile45" Name="System.Web.WebPages.Razor.dll" Source="..\Tesco.OnlineRetail.UI.MVC\bin\System.Web.WebPages.Razor.dll"/>
+          <File Id="binFile46" Name="System.Web.WebPages.Razor.xml" Source="..\Tesco.OnlineRetail.UI.MVC\bin\System.Web.WebPages.Razor.xml"/>
+          <File Id="binFile47" Name="WebGrease.dll" Source="..\Tesco.OnlineRetail.UI.MVC\bin\WebGrease.dll"/>
+          <File Id="binFile48" Name="Tesco.OnlineRetail.UI.MVC.dll.config" Source="..\Tesco.OnlineRetail.UI.MVC\bin\Tesco.OnlineRetail.UI.MVC.dll.config"/>
+
+        </Component>
+      </Directory>
+      <Component Id="Web.config" Guid="{1A92F774-0060-4788-A06E-86FBC8117336}" DiskId="1" KeyPath="yes">
+        <File Id="Web.config" Name="Web.config" Source="..\Tesco.OnlineRetail.UI.MVC\Web.config" />
+      </Component>
+      <Directory Id="Content" Name="Content">
+        <Component Id="Content" Guid="{534757BE-0357-4850-B9AE-B9338848D31E}" DiskId="1" KeyPath="yes">
+          <File Id="Content0" Name="bootstrap.css" Source="..\Tesco.OnlineRetail.UI.MVC\Content\bootstrap.css"/>
+          <File Id="Content1" Name="bootstrap.min.css" Source="..\Tesco.OnlineRetail.UI.MVC\Content\bootstrap.min.css"/>
+          <File Id="Content2" Name="PagedList.css" Source="..\Tesco.OnlineRetail.UI.MVC\Content\PagedList.css"/>
+          <File Id="Content3" Name="Site.css" Source="..\Tesco.OnlineRetail.UI.MVC\Content\Site.css"/>
+        </Component>
+      </Directory>
+      <Directory Id="fonts" Name="fonts">
+        <Component Id="fonts" Guid="{2F0DF641-C8A1-413C-9A49-0BF09496FEFE}" DiskId="1" KeyPath="yes">
+          <File Id="fonts0" Name="glyphicons-halflings-regular.eot" Source="..\Tesco.OnlineRetail.UI.MVC\fonts\glyphicons-halflings-regular.eot"/>
+          <File Id="fonts1" Name="glyphicons-halflings-regular.svg" Source="..\Tesco.OnlineRetail.UI.MVC\fonts\glyphicons-halflings-regular.svg"/>
+          <File Id="fonts2" Name="glyphicons-halflings-regular.ttf" Source="..\Tesco.OnlineRetail.UI.MVC\fonts\glyphicons-halflings-regular.ttf"/>
+          <File Id="fonts3" Name="glyphicons-halflings-regular.woff" Source="..\Tesco.OnlineRetail.UI.MVC\fonts\glyphicons-halflings-regular.woff"/>
+        </Component>
+      </Directory>
+      <Directory Id="Scripts" Name="Scripts">
+        <Component Id="Scripts" Guid="{148317B0-800B-4224-8E12-0745E7DED6D0}" DiskId="1" KeyPath="yes">
+          <File Id="Scripts0" Name="bootstrap.js" Source="..\Tesco.OnlineRetail.UI.MVC\Scripts\bootstrap.js"/>
+          <File Id="Scripts1" Name="bootstrap.min.js" Source="..\Tesco.OnlineRetail.UI.MVC\Scripts\bootstrap.min.js"/>
+          <File Id="Scripts2" Name="_references.js" Source="..\Tesco.OnlineRetail.UI.MVC\Scripts\_references.js"/>
+          <File Id="Scripts3" Name="jquery.validate.js" Source="..\Tesco.OnlineRetail.UI.MVC\Scripts\jquery.validate.js"/>
+          <File Id="Scripts4" Name="jquery.validate.min.js" Source="..\Tesco.OnlineRetail.UI.MVC\Scripts\jquery.validate.min.js"/>
+          <File Id="Scripts5" Name="jquery.validate.unobtrusive.js" Source="..\Tesco.OnlineRetail.UI.MVC\Scripts\jquery.validate.unobtrusive.js"/>
+          <File Id="Scripts6" Name="jquery.validate.unobtrusive.min.js" Source="..\Tesco.OnlineRetail.UI.MVC\Scripts\jquery.validate.unobtrusive.min.js"/>
+          <File Id="Scripts7" Name="jquery.validate-vsdoc.js" Source="..\Tesco.OnlineRetail.UI.MVC\Scripts\jquery.validate-vsdoc.js"/>
+          <File Id="Scripts8" Name="jquery-1.10.2.intellisense.js" Source="..\Tesco.OnlineRetail.UI.MVC\Scripts\jquery-1.10.2.intellisense.js"/>
+          <File Id="Scripts9" Name="jquery-1.10.2.js" Source="..\Tesco.OnlineRetail.UI.MVC\Scripts\jquery-1.10.2.js"/>
+          <File Id="Scripts10" Name="jquery-1.10.2.min.js" Source="..\Tesco.OnlineRetail.UI.MVC\Scripts\jquery-1.10.2.min.js"/>
+          <File Id="Scripts11" Name="jquery-1.10.2.min.map" Source="..\Tesco.OnlineRetail.UI.MVC\Scripts\jquery-1.10.2.min.map"/>
+          <File Id="Scripts12" Name="modernizr-2.6.2.js" Source="..\Tesco.OnlineRetail.UI.MVC\Scripts\modernizr-2.6.2.js"/>
+          <File Id="Scripts13" Name="respond.js" Source="..\Tesco.OnlineRetail.UI.MVC\Scripts\respond.js"/>
+          <File Id="Scripts14" Name="respond.min.js" Source="..\Tesco.OnlineRetail.UI.MVC\Scripts\respond.min.js"/>
+        </Component>
+      </Directory>
+      <Component Id="favicon.ico" Guid="{1F246056-BC3B-4F60-A38D-628F2C59605F}" DiskId="1" KeyPath="yes">
+        <File Id="favicon.ico" Name="favicon.ico" Source="..\Tesco.OnlineRetail.UI.MVC\favicon.ico"/>
+      </Component>
+      <Component Id="Global.asax" Guid="{FD38EC29-9227-44D1-96D5-6D2DBE8F7202}" DiskId="1" KeyPath="yes">
+        <File Id="Global.asax" Name="Global.asax" Source="..\Tesco.OnlineRetail.UI.MVC\Global.asax"/>
+      </Component>
+      <Directory Id="Views" Name="Views">
+        <Component Id="Views" Guid="{0D74AC6A-5B0C-404E-B8D0-F6375B0FE03B}" DiskId="1" KeyPath="yes">
+          <File Id="Web.config_1" Name="Web.config" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Web.config"/>
+          <File Id="_ViewStart.cshtml" Name="_ViewStart.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\_ViewStart.cshtml"/>
+        </Component>
+        <Directory Id="Account" Name="Account">
+          <Component Id="Account" Guid="{C4FA32C7-AF0B-447D-A12C-665FE1BFFFFE}" DiskId="1" KeyPath="yes">
+            <File Id="Acc0" Name="_ExternalLoginsListPartial.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Account\_ExternalLoginsListPartial.cshtml"/>
+            <File Id="Acc1" Name="ConfirmEmail.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Account\ConfirmEmail.cshtml"/>
+            <File Id="Acc2" Name="ExternalLoginConfirmation.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Account\ExternalLoginConfirmation.cshtml"/>
+            <File Id="Acc3" Name="ExternalLoginFailure.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Account\ExternalLoginFailure.cshtml"/>
+            <File Id="Acc4" Name="ForgotPassword.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Account\ForgotPassword.cshtml"/>
+            <File Id="Acc5" Name="Login.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Account\Login.cshtml"/>
+            <File Id="Acc6" Name="Register.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Account\Register.cshtml"/>
+            <File Id="Acc7" Name="ResetPassword.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Account\ResetPassword.cshtml"/>
+            <File Id="Acc8" Name="ResetPasswordConfirmation.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Account\ResetPasswordConfirmation.cshtml"/>
+            <File Id="Acc9" Name="SendCode.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Account\SendCode.cshtml"/>
+            <File Id="Acc10" Name="VerifyCode.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Account\VerifyCode.cshtml"/>
+
+          </Component>
+        </Directory>
+
+        <Directory Id="Category" Name="Category">
+          <Component Id="Category" Guid="{8A25427B-43BB-4A44-A694-46AE0C0CB745}" DiskId="1" KeyPath="yes">
+            <File Id="Cat0" Name="Create.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Category\Create.cshtml"/>
+            <File Id="Cat1" Name="Index.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Category\Index.cshtml"/>
+          </Component>
+        </Directory>
+        <Directory Id="Cart" Name="Cart">
+          <Component Id="Cart" Guid="{54CBE455-2CA0-41DE-8365-BB10B75BB359}" DiskId="1" KeyPath="yes">
+            <File Id="Cart0" Name="Delete.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Cart\Delete.cshtml"/>
+            <File Id="Cart1" Name="Index.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Cart\Index.cshtml"/>
+            <File Id="Cart2" Name="Shipping.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Cart\Shipping.cshtml"/>           
+          </Component>
+        </Directory>
+        <Directory Id="Customer" Name="Customer">
+          <Component Id="Customer" Guid="{8676E2DE-F4E9-4D28-B64C-E29B84F50AEA}" DiskId="1" KeyPath="yes">
+            <File Id="Cust0" Name="Create.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Customer\Create.cshtml"/>
+            <File Id="Cust1" Name="Index.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Customer\Index.cshtml"/>
+          </Component>
+        </Directory>
+        <Directory Id="Inventory" Name="Inventory">
+          <Component Id="Inventory" Guid="{39DA1607-B19F-41FB-84D9-E42B74069907}" DiskId="1" KeyPath="yes">
+            <File Id="Inventory0" Name="Create.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Inventory\Create.cshtml"/>
+            <File Id="Inventory1" Name="Index.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Inventory\Index.cshtml"/>            
+            <File Id="Inventory2" Name="Delete.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Inventory\Delete.cshtml"/>
+          </Component>
+        </Directory>
+        <Directory Id="Product" Name="Product">
+          <Component Id="Product" Guid="{C048A12E-8A97-47CA-81F6-8D2952B1CD4E}" DiskId="1" KeyPath="yes">
+            <File Id="Product0" Name="Create.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Product\Create.cshtml"/>
+            <File Id="Product1" Name="Index.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Product\Index.cshtml"/>
+            <File Id="Product2" Name="Details.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Product\Details.cshtml"/>
+            <File Id="Product3" Name="Edit.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Product\Edit.cshtml"/>
+            <File Id="Product4" Name="Delete.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Product\Delete.cshtml"/>
+          </Component>
+        </Directory>
+        <Directory Id="Home" Name="Home">
+          <Component Id="Home" Guid="{847917C8-E45D-4030-8018-F35A478E1CDD}" DiskId="1" KeyPath="yes">
+            <File Id="Home0" Name="About.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Home\About.cshtml"/>
+            <File Id="Home1" Name="Index.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Home\Index.cshtml"/>
+            <File Id="Home2" Name="Details.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Home\Details.cshtml"/>
+            <File Id="Home3" Name="SearchProduct.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Home\SearchProduct.cshtml"/>
+            <File Id="Home4" Name="AboutClubCard.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Home\AboutClubCard.cshtml"/>
+            <File Id="Home5" Name="AdminIndex.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Home\AdminIndex.cshtml"/>
+            <File Id="Home6" Name="ClubCard.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Home\ClubCard.cshtml"/>
+            <File Id="Home7" Name="Contact.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Home\Contact.cshtml"/>
+          </Component>
+        </Directory>
+        <Directory Id="Manage" Name="Manage">
+          <Component Id="Manage" Guid="{24320A57-F39C-4040-A320-35C6D51A2F47}" DiskId="1" KeyPath="yes">
+            <File Id="Manage0" Name="AddPhoneNumber.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Manage\AddPhoneNumber.cshtml"/>
+            <File Id="Manage1" Name="Index.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Manage\Index.cshtml"/>
+            <File Id="Manage2" Name="ChangePassword.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Manage\ChangePassword.cshtml"/>
+            <File Id="Manage3" Name="ManageLogins.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Manage\ManageLogins.cshtml"/>
+            <File Id="Manage4" Name="SetPassword.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Manage\SetPassword.cshtml"/>
+            <File Id="Manage5" Name="VerifyPhoneNumber.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Manage\VerifyPhoneNumber.cshtml"/>
+          </Component>
+        </Directory>
+        <Directory Id="Shared" Name="Shared">
+          <Component Id="Shared" Guid="{6DD7716F-CA40-46BF-B039-BDDD69A361AC}" DiskId="1" KeyPath="yes">
+            <File Id="Shared0" Name="_Layout.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Shared\_Layout.cshtml"/>
+            <File Id="Shared1" Name="_LoginPartial.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Shared\_LoginPartial.cshtml"/>
+            <File Id="Shared2" Name="Error.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Shared\Error.cshtml"/>
+            <File Id="Shared3" Name="Lockout.cshtml" Source="..\Tesco.OnlineRetail.UI.MVC\Views\Shared\Lockout.cshtml"/>
+
+          </Component>
+        </Directory>
+        <Component Id="iphone.jpg" Guid="{684B8107-E94E-4894-BD1D-0C6B77374813}" DiskId="1" KeyPath="yes">
+          <File Id="iphone.jpg" Name="iphone.jpg" Source="..\Tesco.OnlineRetail.UI.MVC\iphone.jpg"/>
+        </Component>
+        <Component Id="download.jpg" Guid="{94AB124F-835A-487D-8156-FA28660B158E}" DiskId="1" KeyPath="yes">
+          <File Id="download.jpg" Name="download.jpg" Source="..\Tesco.OnlineRetail.UI.MVC\download.jpg"/>
+        </Component>
+      </Directory>
+    </DirectoryRef>
+
+    <ComponentGroup Id="ApplicationFiles">
+      <ComponentRef Id="bin"/>
+      <ComponentRef Id="Web.config"/>
+
+      <ComponentRef Id="Views"/>
+      <ComponentRef Id="Account"/>
+
+      <ComponentRef Id="Category"/>
+      <ComponentRef Id="Cart"/>
+      <ComponentRef Id="Customer"/>
+      <ComponentRef Id="Inventory"/>
+      <ComponentRef Id="Product"/>
+      <ComponentRef Id="Home"/>
+      <ComponentRef Id="Manage"/>
+      <ComponentRef Id="Shared"/>
+      
+      <ComponentRef Id="Content"/>
+      <ComponentRef Id="fonts"/>
+      <ComponentRef Id="Scripts"/>
+      <ComponentRef Id="favicon.ico"/>
+      <ComponentRef Id="Global.asax"/>
+      <ComponentRef Id="iphone.jpg"/>
+      <ComponentRef Id="download.jpg"/>
+    </ComponentGroup>
+	</Fragment>
+</Wix>

@@ -53,3 +53,15 @@ F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\bin\Debug\EntityFramewo
 F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\obj\Debug\Tesco.OnlineRetail.Data.Repository.csprojResolveAssemblyReference.cache
 F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\obj\Debug\Tesco.OnlineRetail.Data.Repository.dll
 F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.Repository\obj\Debug\Tesco.OnlineRetail.Data.Repository.pdb
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Data.Repository\bin\Debug\Tesco.OnlineRetail.Data.Repository.dll.config
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Data.Repository\bin\Debug\Tesco.OnlineRetail.Data.Repository.dll
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Data.Repository\bin\Debug\Tesco.OnlineRetail.Data.Repository.pdb
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Data.Repository\bin\Debug\EntityFramework.dll
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Data.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Data.Repository\bin\Debug\Tesco.OnlineRetail.Models.dll
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Data.Repository\bin\Debug\Tesco.OnlineRetail.Models.pdb
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Data.Repository\bin\Debug\EntityFramework.xml
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Data.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Data.Repository\obj\Debug\Tesco.OnlineRetail.Data.Repository.csprojResolveAssemblyReference.cache
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Data.Repository\obj\Debug\Tesco.OnlineRetail.Data.Repository.dll
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Data.Repository\obj\Debug\Tesco.OnlineRetail.Data.Repository.pdb

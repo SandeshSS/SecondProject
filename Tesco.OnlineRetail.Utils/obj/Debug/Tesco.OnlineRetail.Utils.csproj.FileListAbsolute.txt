@@ -16,3 +16,7 @@ F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Utils\bin\Debug\Tesco.OnlineRetail.Util
 F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Utils\bin\Debug\Tesco.OnlineRetail.Utils.pdb
 F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Utils\obj\Debug\Tesco.OnlineRetail.Utils.dll
 F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Utils\obj\Debug\Tesco.OnlineRetail.Utils.pdb
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Utils\bin\Debug\Tesco.OnlineRetail.Utils.dll
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Utils\bin\Debug\Tesco.OnlineRetail.Utils.pdb
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Utils\obj\Debug\Tesco.OnlineRetail.Utils.dll
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Utils\obj\Debug\Tesco.OnlineRetail.Utils.pdb

@@ -1,0 +1,7 @@
+obj\Debug\Product.wixobj
+obj\Debug\ApplicationFile.wixobj
+C:\Users\yq28\Documents\GitHub\SecondProject\TescoOnlineStoreInstaller\bin\Debug\TescoOnlineStoreInstaller.msi
+C:\Users\yq28\Documents\GitHub\SecondProject\TescoOnlineStoreInstaller\bin\Debug\TescoOnlineStoreInstaller.wixpdb
+obj\Debug\TescoOnlineStoreInstaller.wixproj.BindContentsFileListnull.txt
+obj\Debug\TescoOnlineStoreInstaller.wixproj.BindOutputsFileListnull.txt
+obj\Debug\TescoOnlineStoreInstaller.wixproj.BindBuiltOutputsFileListnull.txt

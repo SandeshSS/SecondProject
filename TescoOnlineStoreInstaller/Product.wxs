@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+	<Product Id="*" Name="TescoOnlineStoreInstaller" Language="1033" Version="1.0.0.0" Manufacturer="Tesco" >
+		<Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+
+		<!--<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+		<MediaTemplate />-->
+    <CustomAction Id="DefaultInstallDrive" Property="INSTALLDRIVE" Value="D:\" />
+    <CustomActionRef Id="WixExitEarlyWithSuccess" />
+    <!-- The name of the cab inside the MSI-->
+    <Media Id="1" Cabinet="media1.cab" EmbedCab="yes" />
+
+		<Feature Id="ProductFeature" Title="(..\ProductName).Setup" Level="1">
+			<ComponentGroupRef Id="TescoOnlineStoreInstaller" />
+		</Feature>
+	
+  <Property Id="ROOTDRIVE" Value="D:\" />
+  <Property Id="ARPNOMODIFY" Value="1" />
+
+  <!--<Fragment>-->
+		<Directory Id="TARGETDIR" Name="SourceDir">
+			<Directory Id="INSTALLDRIVE">
+				<!--<Directory Id="INSTALLFOLDER" Name="TescoOnlineStoreInstaller" />-->
+        <Directory Id="BaseDir" Name="TescoOnlineStore">
+          <Directory Id="TescoUIMVC" Name="TescoUIMVC" >
+            
+          </Directory>
+       </Directory>
+			</Directory>
+		</Directory>
+    
+    
+  <!--<DirectoryRef Id="TescoUIMVC">
+      <Component Id="TescoUIMVC" Guid="{93DB2C24-8E4B-49ED-9736-32954427090A}" DiskId="1" >
+        <File Source="..\Tesco.OnlineRetail.UI.MVC\" KeyPath="yes"/>
+      </Component>
+    </DirectoryRef>-->
+	<!--</Fragment>-->
+  </Product>
+  
+	<Fragment>
+		<ComponentGroup Id="TescoOnlineStoreInstaller">
+      <ComponentGroupRef Id="ApplicationFiles" />
+      
+    </ComponentGroup>
+	</Fragment>
+  
+</Wix>

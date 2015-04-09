@@ -78,3 +78,17 @@ F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Business\bin\Debug\EntityFramework.xml
 F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Business\obj\Debug\Tesco.OnlineRetail.Business.csprojResolveAssemblyReference.cache
 F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Business\obj\Debug\Tesco.OnlineRetail.Business.dll
 F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Business\obj\Debug\Tesco.OnlineRetail.Business.pdb
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Business\bin\Debug\Tesco.OnlineRetail.Business.dll.config
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Business\bin\Debug\Tesco.OnlineRetail.Business.dll
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Business\bin\Debug\Tesco.OnlineRetail.Business.pdb
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Business\bin\Debug\Tesco.OnlineRetail.Data.ADORepository.dll
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Business\bin\Debug\Tesco.OnlineRetail.Data.Repository.dll
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Business\bin\Debug\Tesco.OnlineRetail.Models.dll
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Business\bin\Debug\EntityFramework.dll
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Business\bin\Debug\Tesco.OnlineRetail.Data.ADORepository.pdb
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Business\bin\Debug\Tesco.OnlineRetail.Data.Repository.pdb
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Business\bin\Debug\Tesco.OnlineRetail.Models.pdb
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Business\bin\Debug\EntityFramework.xml
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Business\obj\Debug\Tesco.OnlineRetail.Business.csprojResolveAssemblyReference.cache
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Business\obj\Debug\Tesco.OnlineRetail.Business.dll
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Business\obj\Debug\Tesco.OnlineRetail.Business.pdb

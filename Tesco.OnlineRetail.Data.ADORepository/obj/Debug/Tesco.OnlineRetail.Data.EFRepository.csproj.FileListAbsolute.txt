@@ -67,3 +67,17 @@ F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.ADORepository\bin\Debug\EntityFram
 F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.ADORepository\obj\Debug\Tesco.OnlineRetail.Data.EFRepository.csprojResolveAssemblyReference.cache
 F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.ADORepository\obj\Debug\Tesco.OnlineRetail.Data.ADORepository.dll
 F:\Tesco.OnlineRetail\Tesco.OnlineRetail.Data.ADORepository\obj\Debug\Tesco.OnlineRetail.Data.ADORepository.pdb
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Data.ADORepository\bin\Debug\Tesco.OnlineRetail.Data.ADORepository.dll.config
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Data.ADORepository\bin\Debug\Tesco.OnlineRetail.Data.ADORepository.dll
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Data.ADORepository\bin\Debug\Tesco.OnlineRetail.Data.ADORepository.pdb
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Data.ADORepository\bin\Debug\EntityFramework.dll
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Data.ADORepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Data.ADORepository\bin\Debug\Tesco.OnlineRetail.Data.Repository.dll
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Data.ADORepository\bin\Debug\Tesco.OnlineRetail.Models.dll
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Data.ADORepository\bin\Debug\Tesco.OnlineRetail.Data.Repository.pdb
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Data.ADORepository\bin\Debug\Tesco.OnlineRetail.Models.pdb
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Data.ADORepository\bin\Debug\EntityFramework.xml
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Data.ADORepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Data.ADORepository\obj\Debug\Tesco.OnlineRetail.Data.EFRepository.csprojResolveAssemblyReference.cache
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Data.ADORepository\obj\Debug\Tesco.OnlineRetail.Data.ADORepository.dll
+C:\Users\yq28\Documents\GitHub\SecondProject\Tesco.OnlineRetail.Data.ADORepository\obj\Debug\Tesco.OnlineRetail.Data.ADORepository.pdb

@@ -79,7 +79,7 @@
     @Html.ActionLink("Place Order", "Create", "Shipping", new { id = Model.CartId }, "")
 </p>*@
 <div>
-    <a id="qtyid">Buy </a>
+        <a id="qtyid">Buy </a>
 </div>
 
 
@@ -105,7 +105,7 @@
         $("#totalprice").text(total);
         $("#qtyid").click(function()
         {
-            $(this).attr("href","/Cart/UpdateCart?id="+id+"&qty="+qty+"&price="+price);
+            $(this).attr("href","/TescoOnlineStore/Cart/UpdateCart?id="+id+"&qty="+qty+"&price="+price);
 
         });
     });

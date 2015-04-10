@@ -188,13 +188,14 @@
 
           </Component>
         </Directory>
-        <Component Id="iphone.jpg" Guid="{684B8107-E94E-4894-BD1D-0C6B77374813}" DiskId="1" KeyPath="yes">
-          <File Id="iphone.jpg" Name="iphone.jpg" Source="..\Tesco.OnlineRetail.UI.MVC\iphone.jpg"/>
-        </Component>
-        <Component Id="download.jpg" Guid="{94AB124F-835A-487D-8156-FA28660B158E}" DiskId="1" KeyPath="yes">
-          <File Id="download.jpg" Name="download.jpg" Source="..\Tesco.OnlineRetail.UI.MVC\download.jpg"/>
-        </Component>
+       
       </Directory>
+      <Component Id="iphone.jpg" Guid="{684B8107-E94E-4894-BD1D-0C6B77374813}" DiskId="1" KeyPath="yes">
+        <File Id="iphone.jpg" Name="iphone.jpg" Source="..\Tesco.OnlineRetail.UI.MVC\iphone.jpg"/>
+      </Component>
+      <Component Id="download.jpg" Guid="{94AB124F-835A-487D-8156-FA28660B158E}" DiskId="1" KeyPath="yes">
+        <File Id="download.jpg" Name="download.jpg" Source="..\Tesco.OnlineRetail.UI.MVC\download.jpg"/>
+      </Component>
     </DirectoryRef>
 
     <ComponentGroup Id="ApplicationFiles">

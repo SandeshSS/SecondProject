@@ -72,10 +72,9 @@
 
                 $.ajax({
                     dataType: "json",
-                    url: "/Home/GetProductlistByCatId",
+                    url: "/TescoOnlineStore/Home/GetProductlistByCatId",
                     data: { id: catId },
                     success: function (products) {
-
                         $("#products").empty();
 
                         var content = "";
@@ -91,7 +90,7 @@
                             content = content + products[product].ProductDesc;
                             content = content + "<h4>" + "'&#8377'" + products[product].ProductPrice + "</h4>" + "</div>";
 
-                            content = content + "<br>" + "<a href='/Home/Details?id=" + products[product].ProductId + "'><button>View</button></a>" + "</div>";
+                            content = content + "<br>" + "<a href='/TescoOnlineStore/Home/Details?id=" + products[product].ProductId + "'><button>View</button></a>" + "</div>";
                             content = content + "</div>";
                             content = content + "</div>";
                                 //content = content + "<br>";
